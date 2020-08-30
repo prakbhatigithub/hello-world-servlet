@@ -5,3 +5,4 @@ HelloWorld Servlet example with corresponding Dockerfile
 testing auto triggering of job from GITHUB on 28th July 3:21PM
 Testing on 30th Aug 2020
 GITHUB WEBHOOK PART TESTING
+maven testing
